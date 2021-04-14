@@ -3,3 +3,6 @@
 
 
 ![](boids.png)
+
+## Controls
+- Use left click to put walls
